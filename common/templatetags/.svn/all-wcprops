@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/158/trunk/common/templatetags
+END
+actor.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/common/templatetags/actor.py
+END
+format.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/158/trunk/common/templatetags/format.py
+END
+error.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/common/templatetags/error.py
+END
+json.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/trunk/common/templatetags/json.py
+END
+base.py
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/trunk/common/templatetags/base.py
+END
+avatar.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/70/trunk/common/templatetags/avatar.py
+END
+vcard.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/common/templatetags/vcard.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/common/templatetags/__init__.py
+END
+entry.py
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/50/trunk/common/templatetags/entry.py
+END
+nonce.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/common/templatetags/nonce.py
+END
+presence.py
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/8/trunk/common/templatetags/presence.py
+END

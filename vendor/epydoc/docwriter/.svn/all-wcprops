@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/epydoc/!svn/ver/1812/trunk/epydoc/src/epydoc/docwriter
+END
+dotgraph.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/epydoc/!svn/ver/1805/trunk/epydoc/src/epydoc/docwriter/dotgraph.py
+END
+plaintext.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/epydoc/!svn/ver/1812/trunk/epydoc/src/epydoc/docwriter/plaintext.py
+END
+html_colorize.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/epydoc/!svn/ver/1716/trunk/epydoc/src/epydoc/docwriter/html_colorize.py
+END
+html_css.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/epydoc/!svn/ver/1736/trunk/epydoc/src/epydoc/docwriter/html_css.py
+END
+html_help.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/epydoc/!svn/ver/1239/trunk/epydoc/src/epydoc/docwriter/html_help.py
+END
+latex_sty.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/epydoc/!svn/ver/1808/trunk/epydoc/src/epydoc/docwriter/latex_sty.py
+END
+latex.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1809/trunk/epydoc/src/epydoc/docwriter/latex.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/epydoc/!svn/ver/956/trunk/epydoc/src/epydoc/docwriter/__init__.py
+END
+html.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/epydoc/!svn/ver/1812/trunk/epydoc/src/epydoc/docwriter/html.py
+END
+xlink.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1719/trunk/epydoc/src/epydoc/docwriter/xlink.py
+END

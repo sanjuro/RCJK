@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/markup/templatetags
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/markup/templatetags/__init__.py
+END
+markup.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/markup/templatetags/markup.py
+END

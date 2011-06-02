@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/138/trunk/join/templates
+END
+welcome_form_find_contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_find_contacts.html
+END
+form_join.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/138/trunk/join/templates/form_join.html
+END
+welcome_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/join/templates/welcome_mobile.html
+END
+welcome_form_mobile_confirm.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_mobile_confirm.html
+END
+welcome_form_add_contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_add_contacts.html
+END
+welcome_form_mobile_activate.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_mobile_activate.html
+END
+welcome_form_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_photo.html
+END
+welcome_contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/join/templates/welcome_contacts.html
+END
+welcome_form_mobile_activated.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_mobile_activated.html
+END
+welcome_form_find_more_contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_find_more_contacts.html
+END
+join.html
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1/trunk/join/templates/join.html
+END
+welcome_done.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/119/trunk/join/templates/welcome_done.html
+END
+welcome_header.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/1/trunk/join/templates/welcome_header.html
+END
+welcome_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/trunk/join/templates/welcome_photo.html
+END
+welcome_form_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/trunk/join/templates/welcome_form_mobile.html
+END
+welcome_start.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/119/trunk/join/templates/welcome_start.html
+END

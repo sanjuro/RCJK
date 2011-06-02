@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/144/trunk/common/management/commands
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/common/management/commands/__init__.py
+END
+test.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/144/trunk/common/management/commands/test.py
+END
+clean.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/23/trunk/common/management/commands/clean.py
+END
+config.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/35/trunk/common/management/commands/config.py
+END
+build_docs.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/124/trunk/common/management/commands/build_docs.py
+END

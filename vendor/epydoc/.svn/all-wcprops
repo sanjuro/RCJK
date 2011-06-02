@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svnroot/epydoc/!svn/ver/1812/trunk/epydoc/src/epydoc
+END
+docstringparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1715/trunk/epydoc/src/epydoc/docstringparser.py
+END
+docbuilder.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/epydoc/!svn/ver/1775/trunk/epydoc/src/epydoc/docbuilder.py
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/epydoc/!svn/ver/1721/trunk/epydoc/src/epydoc/util.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svnroot/epydoc/!svn/ver/1750/trunk/epydoc/src/epydoc/__init__.py
+END
+apidoc.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/epydoc/!svn/ver/1811/trunk/epydoc/src/epydoc/apidoc.py
+END
+log.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/epydoc/!svn/ver/1704/trunk/epydoc/src/epydoc/log.py
+END
+docparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/epydoc/!svn/ver/1776/trunk/epydoc/src/epydoc/docparser.py
+END
+compat.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svnroot/epydoc/!svn/ver/1481/trunk/epydoc/src/epydoc/compat.py
+END
+checker.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svnroot/epydoc/!svn/ver/1366/trunk/epydoc/src/epydoc/checker.py
+END
+gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/epydoc/!svn/ver/1690/trunk/epydoc/src/epydoc/gui.py
+END
+cli.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/epydoc/!svn/ver/1807/trunk/epydoc/src/epydoc/cli.py
+END
+docintrospecter.py
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1810/trunk/epydoc/src/epydoc/docintrospecter.py
+END

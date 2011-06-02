@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/125/trunk/middleware
+END
+strip_whitespace.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/trunk/middleware/strip_whitespace.py
+END
+exception.py
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/20/trunk/middleware/exception.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/1/trunk/middleware/__init__.py
+END
+profile.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/1/trunk/middleware/profile.py
+END
+auth.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/1/trunk/middleware/auth.py
+END
+cache.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/1/trunk/middleware/cache.py
+END
+domain.py
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/125/trunk/middleware/domain.py
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svnroot/epydoc/!svn/ver/1785/trunk/epydoc/src/epydoc/test
+END
+docbuilder.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/epydoc/!svn/ver/1582/trunk/epydoc/src/epydoc/test/docbuilder.doctest
+END
+docparser.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/epydoc/!svn/ver/1593/trunk/epydoc/src/epydoc/test/docparser.doctest
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/epydoc/!svn/ver/1502/trunk/epydoc/src/epydoc/test/__init__.py
+END
+pyval_repr.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svnroot/epydoc/!svn/ver/1630/trunk/epydoc/src/epydoc/test/pyval_repr.doctest
+END
+encoding.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/epydoc/!svn/ver/1572/trunk/epydoc/src/epydoc/test/encoding.doctest
+END
+zope2.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1536/trunk/epydoc/src/epydoc/test/zope2.doctest
+END
+apidoc.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/epydoc/!svn/ver/1680/trunk/epydoc/src/epydoc/test/apidoc.doctest
+END
+zope3.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/epydoc/!svn/ver/1536/trunk/epydoc/src/epydoc/test/zope3.doctest
+END
+util.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svnroot/epydoc/!svn/ver/1502/trunk/epydoc/src/epydoc/test/util.py
+END
+restructuredtext.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/epydoc/!svn/ver/1502/trunk/epydoc/src/epydoc/test/restructuredtext.doctest
+END
+epytext.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/epydoc/!svn/ver/1785/trunk/epydoc/src/epydoc/test/epytext.doctest
+END
+javadoc.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/epydoc/!svn/ver/1496/trunk/epydoc/src/epydoc/test/javadoc.doctest
+END
+docintrospecter.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/epydoc/!svn/ver/1536/trunk/epydoc/src/epydoc/test/docintrospecter.doctest
+END
+cli.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/epydoc/!svn/ver/1712/trunk/epydoc/src/epydoc/test/cli.doctest
+END
+plaintext.doctest
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/epydoc/!svn/ver/1574/trunk/epydoc/src/epydoc/test/plaintext.doctest
+END

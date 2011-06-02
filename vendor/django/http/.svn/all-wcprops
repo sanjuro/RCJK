@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/http
+END
+multipartparser.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/http/multipartparser.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/http/__init__.py
+END
+utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/http/utils.py
+END

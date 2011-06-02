@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes
+END
+misc.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/misc.py
+END
+topology.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/topology.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/__init__.py
+END
+coordseq.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/coordseq.py
+END
+prepared.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/prepared.py
+END
+predicates.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/predicates.py
+END
+errcheck.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/errcheck.py
+END
+geom.py
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/geom.py
+END
+io.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/geos/prototypes/io.py
+END

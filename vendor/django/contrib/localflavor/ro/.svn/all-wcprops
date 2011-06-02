@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/localflavor/ro
+END
+ro_counties.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/localflavor/ro/ro_counties.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/localflavor/ro/__init__.py
+END
+forms.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/localflavor/ro/forms.py
+END

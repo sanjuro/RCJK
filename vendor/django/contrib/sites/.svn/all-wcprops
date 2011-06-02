@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites
+END
+admin.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/admin.py
+END
+management.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/management.py
+END
+managers.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/managers.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sites/models.py
+END

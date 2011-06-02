@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/154/trunk/flat/templates
+END
+tour_create.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/154/trunk/flat/templates/tour_create.html
+END
+privacy.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/trunk/flat/templates/privacy.html
+END
+help_im.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/1/trunk/flat/templates/help_im.html
+END
+help_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/119/trunk/flat/templates/help_index.html
+END
+help_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/flat/templates/help_base.html
+END
+tour_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/119/trunk/flat/templates/tour_base.html
+END
+tour_contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/119/trunk/flat/templates/tour_contacts.html
+END
+help_commands.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/flat/templates/help_commands.html
+END
+about.html
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/119/trunk/flat/templates/about.html
+END
+help_sms.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/flat/templates/help_sms.html
+END
+terms.html
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/1/trunk/flat/templates/terms.html
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sessions
+END
+middleware.py
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sessions/middleware.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sessions/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sessions/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/sessions/models.py
+END

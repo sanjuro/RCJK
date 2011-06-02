@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/154/trunk/actor/templates
+END
+followers.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/70/trunk/actor/templates/followers.html
+END
+people_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/70/trunk/actor/templates/people_base.html
+END
+contacts.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/70/trunk/actor/templates/contacts.html
+END
+settings_profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/136/trunk/actor/templates/settings_profile.html
+END
+settings_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/actor/templates/settings_password.html
+END
+settings_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/actor/templates/settings_delete.html
+END
+contacts.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/141/trunk/actor/templates/contacts.json
+END
+settings_im.html
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/147/trunk/actor/templates/settings_im.html
+END
+settings_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/154/trunk/actor/templates/settings_index.html
+END
+settings_mobile.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/actor/templates/settings_mobile.html
+END
+settings_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/actor/templates/settings_design.html
+END
+settings_notifications.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/1/trunk/actor/templates/settings_notifications.html
+END
+settings_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/154/trunk/actor/templates/settings_base.html
+END
+history.atom
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/150/trunk/actor/templates/history.atom
+END
+settings_privacy.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/actor/templates/settings_privacy.html
+END
+item.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/70/trunk/actor/templates/item.html
+END
+invite.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/actor/templates/invite.html
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/102/trunk/actor/templates/history.html
+END
+overview.atom
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/150/trunk/actor/templates/overview.atom
+END
+sidebar_privateuser.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/1/trunk/actor/templates/sidebar_privateuser.html
+END
+item.json
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/141/trunk/actor/templates/item.json
+END
+history.rss
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/150/trunk/actor/templates/history.rss
+END
+settings_feeds.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/actor/templates/settings_feeds.html
+END
+overview.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/102/trunk/actor/templates/overview.html
+END
+history.json
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/141/trunk/actor/templates/history.json
+END
+settings_email.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/actor/templates/settings_email.html
+END
+settings_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/actor/templates/settings_photo.html
+END
+overview.rss
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/150/trunk/actor/templates/overview.rss
+END
+overview.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/141/trunk/actor/templates/overview.json
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/154/trunk/channel/templates
+END
+settings_delete.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/70/trunk/channel/templates/settings_delete.html
+END
+settings_index.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/154/trunk/channel/templates/settings_index.html
+END
+index_signedout.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/channel/templates/index_signedout.html
+END
+sidebar_ourpicks.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/1/trunk/channel/templates/sidebar_ourpicks.html
+END
+sidebar_profile.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/channel/templates/sidebar_profile.html
+END
+settings_design.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/channel/templates/settings_design.html
+END
+members.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/1/trunk/channel/templates/members.html
+END
+settings_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/154/trunk/channel/templates/settings_base.html
+END
+history.atom
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/150/trunk/channel/templates/history.atom
+END
+item.html
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/70/trunk/channel/templates/item.html
+END
+browse.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/channel/templates/browse.html
+END
+history.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/70/trunk/channel/templates/history.html
+END
+channel_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/70/trunk/channel/templates/channel_base.html
+END
+create.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/1/trunk/channel/templates/create.html
+END
+history.rss
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/150/trunk/channel/templates/history.rss
+END
+settings_details.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/channel/templates/settings_details.html
+END
+history.json
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/141/trunk/channel/templates/history.json
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/105/trunk/channel/templates/index.html
+END
+nonexist.html
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/1/trunk/channel/templates/nonexist.html
+END
+channel_tiles.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/70/trunk/channel/templates/channel_tiles.html
+END
+settings_photo.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/1/trunk/channel/templates/settings_photo.html
+END

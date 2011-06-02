@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/data/interstates
+END
+interstates.dbf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/data/interstates/interstates.dbf
+END
+interstates.prj
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/data/interstates/interstates.prj
+END
+interstates.shx
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/data/interstates/interstates.shx
+END
+interstates.shp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/data/interstates/interstates.shp
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/148/trunk/common/fixtures
+END
+subscriptions.json
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/148/trunk/common/fixtures/subscriptions.json
+END
+ims.json
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/137/trunk/common/fixtures/ims.json
+END
+inboxentries.json
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/1/trunk/common/fixtures/inboxentries.json
+END
+emails.json
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/137/trunk/common/fixtures/emails.json
+END
+mobiles.json
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/123/trunk/common/fixtures/mobiles.json
+END
+actors.json
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/148/trunk/common/fixtures/actors.json
+END
+contacts.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/148/trunk/common/fixtures/contacts.json
+END
+streams.json
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/148/trunk/common/fixtures/streams.json
+END
+oauthconsumers.json
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/1/trunk/common/fixtures/oauthconsumers.json
+END
+invites.json
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/1/trunk/common/fixtures/invites.json
+END
+activations.json
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/123/trunk/common/fixtures/activations.json
+END
+streamentries.json
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/137/trunk/common/fixtures/streamentries.json
+END
+oauthaccesstokens.json
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/1/trunk/common/fixtures/oauthaccesstokens.json
+END

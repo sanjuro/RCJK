@@ -1,0 +1,13 @@
+K 13
+svn:externals
+V 706
+django                    http://code.djangoproject.com/svn/django/tags/releases/1.1.2/django
+oauth                     http://oauth.googlecode.com/svn/code/branches/termie/python/oauth
+simplejson                http://simplejson.googlecode.com/svn/trunk/simplejson/
+gdata                     http://gdata-python-client.googlecode.com/svn/trunk/src/gdata
+atom                      http://gdata-python-client.googlecode.com/svn/trunk/src/atom
+elementtree               http://svn.effbot.org/public/elementtree-1.3/elementtree
+cleanliness               http://cleanliness.googlecode.com/svn/trunk/cleanliness
+epydoc                    http://epydoc.svn.sourceforge.net/svnroot/epydoc/trunk/epydoc/src/epydoc
+
+END

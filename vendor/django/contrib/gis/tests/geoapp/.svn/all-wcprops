@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp
+END
+test_regress.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/test_regress.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/__init__.py
+END
+tests.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/tests.py
+END
+models.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/models.py
+END
+test_sitemaps.py
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/test_sitemaps.py
+END
+sitemaps.py
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/sitemaps.py
+END
+test_feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/test_feeds.py
+END
+urls.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/urls.py
+END
+feeds.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/feeds.py
+END
+tests_mysql.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/gis/tests/geoapp/tests_mysql.py
+END

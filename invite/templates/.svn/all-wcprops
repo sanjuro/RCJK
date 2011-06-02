@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/119/trunk/invite/templates
+END
+email.html
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/119/trunk/invite/templates/email.html
+END
+invite_base.html
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/119/trunk/invite/templates/invite_base.html
+END

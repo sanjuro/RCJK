@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/78/trunk/testdata
+END
+test_avatar.png
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/78/trunk/testdata/test_avatar.png
+END
+test_avatar.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/1/trunk/testdata/test_avatar.jpg
+END

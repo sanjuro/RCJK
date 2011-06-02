@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/70/trunk/common/templates/email
+END
+signature.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/1/trunk/common/templates/email/signature.txt
+END
+email_confirm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/70/trunk/common/templates/email/email_confirm.txt
+END
+email_new_follower_mutual.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/70/trunk/common/templates/email/email_new_follower_mutual.html
+END
+email_invite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/70/trunk/common/templates/email/email_invite.txt
+END
+email_new_follower.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/70/trunk/common/templates/email/email_new_follower.txt
+END
+email_password.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/70/trunk/common/templates/email/email_password.txt
+END
+email_confirm.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/70/trunk/common/templates/email/email_confirm.html
+END
+email_comment.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/70/trunk/common/templates/email/email_comment.txt
+END
+email_invite.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/70/trunk/common/templates/email/email_invite.html
+END
+email_password.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/70/trunk/common/templates/email/email_password.html
+END
+email_new_follower.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/70/trunk/common/templates/email/email_new_follower.html
+END
+base.html
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/1/trunk/common/templates/email/base.html
+END
+email_new_follower_mutual.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/70/trunk/common/templates/email/email_new_follower_mutual.txt
+END

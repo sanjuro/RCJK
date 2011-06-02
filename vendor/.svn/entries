@@ -1,0 +1,37 @@
+10
+
+dir
+159
+http://jaikuengine.googlecode.com/svn/trunk/vendor
+http://jaikuengine.googlecode.com/svn
+
+
+
+2010-05-26T13:21:13.522021Z
+145
+andyster@gmail.com
+has-props
+
+
+svn:externals
+
+
+
+
+
+
+
+
+
+
+6315f19a-1029-11de-a3bf-55d8bd1d7a4a
+
+markdown
+dir
+
+wsgiref
+dir
+
+beautifulsoup
+dir
+

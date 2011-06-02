@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/databrowse/plugins
+END
+objects.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/databrowse/plugins/objects.py
+END
+calendars.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/databrowse/plugins/calendars.py
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/databrowse/plugins/__init__.py
+END
+fieldchoices.py
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/13258/django/tags/releases/1.1.2/django/contrib/databrowse/plugins/fieldchoices.py
+END
