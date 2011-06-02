@@ -1,23 +1,29 @@
-DOMAIN = 'rapidcomment.appspot.com'
+# Copyright 2009 Google Inc.
+#
+# Licensed under the Apache License, Version 2.0 (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
 
-SITE_NAME = 'Rapid Comment'
 
-COOKIE_DOMAIN = 'rapidcomment.appspot.com'
+# This is an example local_settings.py that will get the server to
+# play nice with the local development server. You'll want to rename it
+# local_settings.py before running ./bin/testserver.sh
 
-NS_DOMAIN = 'rapidcomment.appspot.com'
+DEBUG = True
+TEMPLATE_DEBUG = True
 
-GAE_DOMAIN = 'rapidcomment.appspot.com'
-
-ROOT_NICK = 'shadley@rapidcomment.appspot.com'
-
-TEMPLATE_DEBUG = False
-
-DEFAULT_FROM_EMAIL = 'headhancho@rapidcomment.com'
-
-HOSTED_DOMAIN_ENABLED = False
-
-DEBUG = False
-
-SECRET_KEY = 'bbc3b4bc5d57fef11bc0e1a34785c220'
-
+GAE_DOMAIN = 'localhost:8080'
+DOMAIN = 'localhost:8080'
+COOKIE_DOMAIN = 'localhost'
+WILDCARD_USER_SUBDOMAINS_ENABLED = False
+SUBDOMAINS_ENABLED = False
 SSL_LOGIN_ENABLED = False
+

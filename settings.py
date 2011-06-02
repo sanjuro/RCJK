@@ -193,7 +193,7 @@ SSL_LOGIN_ENABLED = False
 #
 
 # The default theme to use
-DEFAULT_THEME = 'trotz'
+DEFAULT_THEME = 'rapidcomment'
 
 
 

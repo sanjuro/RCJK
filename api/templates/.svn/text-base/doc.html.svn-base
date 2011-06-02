@@ -1,9 +1,0 @@
-{% extends 'api/templates/api_base.html' %}
-{% load nonce %}
-{% block api %}
-
-{{content}}
-
-
-
-{% endblock %}
