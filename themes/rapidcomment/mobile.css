@@ -1,3 +1,42 @@
+/* header */
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+
+/* header */
+
+div#header-container {
+  background-color: #910201;
+  color: #FFF;
+  padding: 0 5px;
+}
+
+
+/* main nav */
+ul#main-nav li a, #login a {
+    color: #FFF;
+    font-weight: bold;
+}
+
+ul#main-nav li a:hover {
+	color: 	#A10302;
+}
+
+ul#main-nav li.current {
+    background: #FFF;
+}
+
+ul#main-nav li.current a {
+    color: #A10302;
+}
+
+#login a:hover  {
+	 background-color: #256188;
+}
+
 /* contacts */
 
 div#contacts ul.float li.follower {
