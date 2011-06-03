@@ -17,36 +17,15 @@
   <link rel="icon" href="/themes/{{DEFAULT_THEME|urlencode}}/favicon.ico" type="image/x-icon" />
 
   {# base stylesheet #}
-  {% if not request.mobile %}
-    <link rel="stylesheet" type="text/css" href="/css/core.css?17" media="screen,projection" />
-    <!--[if lte IE 6]>
-      <link rel="stylesheet" type="text/css" href="/css/ie.css?13"/>
-    <![endif]-->
-  {% else %}
     <link rel="stylesheet" type="text/css" href="/css/mobile.css?17" media="screen,projection" />
     {# iphone viewport definition #}
     <meta name="viewport" content="maximum-scale=2.0, width=device-width,initial-scale=1.0" />
-  {% endif %}
 
   {# per-user theme override, usually set by a site admin #}
   {% if view.extra.theme %}
-    {% if not request.mobile %}
-      <link rel="stylesheet" type="text/css" href="/themes/{{view.extra.theme|urlencode}}/screen.css" media="screen,projection" />
-      <!--[if lte IE 6]>
-        <link rel="stylesheet" type="text/css" href="/themes/{{view.extra.theme|urlencode}}/screen-ie.css"/>
-      <![endif]-->
-    {% else %}
       <link rel="stylesheet" type="text/css" href="/themes/{{view.extra.theme|urlencode}}/mobile.css" media="screen,projection" />
-    {% endif %}
   {% else %}
-    {% if not request.mobile %}
-      <link rel="stylesheet" type="text/css" href="/themes/{{DEFAULT_THEME|urlencode}}/screen.css" media="screen,projection" />
-      <!--[if lte IE 6]>
-        <link rel="stylesheet" type="text/css" href="/themes/{{DEFAULT_THEME|urlencode}}/screen-ie.css"/>
-      <![endif]-->
-    {% else %}
       <link rel="stylesheet" type="text/css" href="/themes/{{DEFAULT_THEME|urlencode}}/mobile.css" media="screen,projection" />
-    {% endif %}
   {% endif %}
 
   {# per-user custom background #}
