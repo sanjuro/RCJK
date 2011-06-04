@@ -95,6 +95,20 @@ ul#main-nav li.current a {
 #channels, #stream, .main{
 	border-bottom: 1px solid #DDDDDD;
 }
+.location p, #contacts p{
+	padding: 0.3em 1.6em 0.2em 0.3em;
+}
+
+#channels h2, .location h2, #contacts h2, #streams h2 {
+	background-color: #F2F2F2;
+	border-top: 1px solid #256188;
+	border-bottom: 1px solid #DDDDDD;
+	color: #000;
+	font-size: medium;
+    font-weight: bold;
+    margin: 0;	
+    padding: 0.3em 1.6em 0.2em 0.6em;
+}
 
 /* footer */
 

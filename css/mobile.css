@@ -118,7 +118,7 @@ form div label, form p label {
 
 textarea {
     height: 50%;
-    width: 80%;
+    width: 60%;
 }
 
 .centered {
@@ -132,4 +132,6 @@ textarea {
 a img {
     border: none;
 }
-
+p.button {
+	float: left;	
+}
