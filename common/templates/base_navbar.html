@@ -3,34 +3,9 @@
 {% block body %}
   <div id="header-container">
     <div id="header">
-      {% if not request.mobile %}
-        <div id="helper-nav">
-          <p id="login">
-            {% block login %}
-              {% if request.user %}
-                Signed in as {% actor_link request.user request %} | 
-                <a href="{{request.user.url}}/settings">Settings</a> | 
-                <a href="/logout">Sign Out</a>
-              {% else %}
-                Already a member? 
-                {% if SUBDOMAINS_ENABLED %}
-                  <a href="/login?redirect_to=http://{{request.META.HTTP_HOST}}{{request.META.PATH_INFO}}">Sign In</a>
-                {% else %}
-                  <a href="/login?redirect_to={{request.META.PATH_INFO}}">Sign In</a>
-                {% endif %}
-              {% endif %}
-            {% endblock %}
-          </p>
-        </div>
-      {% endif %}
-
-      {% block logo %}
-      <a href="/" id="logo">
-        <img src="/themes/{{DEFAULT_THEME|urlencode}}/logo.png" height="73" width="89" alt="{{SITE_NAME}}" />
-      </a>
-      {% endblock %}
-      
-      {% if not request.mobile %}
+      	 <a href="/" id="logo">
+	        <img src="/themes/{{DEFAULT_THEME|urlencode}}/logo_mobile.png"  alt="{{SITE_NAME}}" />
+	     </a>
         {% block mainnav %}
         <ul id="main-nav">
           {% if request.user %} {# The logged-in navigation #}
@@ -51,7 +26,7 @@
             <span><a href="/">Home</a></span>
           </li>
           <li {% ifequal area "tour" %}class="current"{% endifequal %} >
-            <span><a href="/tour">Take the Tour</a></span>
+            <span><a href="/tour">Tour</a></span>
           </li>
           <li {% ifequal area "channel" %}class="current"{% endifequal %} >
             <span><a href="/channel">Channels</a></span>
@@ -59,11 +34,22 @@
           <li {% ifequal area "explore" %}class="current"{% endifequal %} >
             <span><a href="/explore">Explore</a></span>
           </li>
+	        {% if SUBDOMAINS_ENABLED %}
+	          <li><a href="{% url_for DOMAIN request %}/login?redirect_to=http://{{request.META.HTTP_HOST}}{{request.META.PATH_INFO}}">Sign In</a></li>
+	        {% else %}
+	          <li><a href="{% url_for DOMAIN request %}/login?redirect_to={{request.META.PATH_INFO}}">Sign In</a></li>
+	        {% endif %}
           {% endif %}
         </ul>
         {% endblock %}
-      {% endif %}
+        <br>
     </div>
+    
+	{% if request.user %}
+                Signed in as {% actor_link request.user request %} | 
+                <a href="{{request.user.url}}/settings">Settings</a> | 
+                <a href="/logout">Sign Out</a>  
+     {% endif %}
   </div>
   <div id="container" {% block containertag %}{% if style %} class="{{style}}"{% endif %}{% endblock %}>
   {% block flash %}

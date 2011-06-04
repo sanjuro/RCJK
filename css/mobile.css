@@ -4,12 +4,16 @@ body {
 }
 
 div#footer {
+	background-color: #256188;
     border-top: solid 1px #bbe1ec;
-    padding-top: 1em;
+    color: #FFF;
+    padding: 1em 0px;
     margin-top: 1em;
     clear: left;
 }
-
+div#footer  a {
+	color: #FFF;	
+}
 div#form-icons {
     overflow: auto;
     height: 100px;
@@ -113,7 +117,8 @@ form div label, form p label {
 }
 
 textarea {
-    width: 90%;
+    height: 50%;
+    width: 80%;
 }
 
 .centered {

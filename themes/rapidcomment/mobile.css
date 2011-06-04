@@ -1,28 +1,63 @@
-/* header */
+/* body */
 
 body {
 	margin: 0;
 	padding: 0;
 }
 
+a {
+    color: #256188;	
+}
 
+h1 {
+	font-size: 1.3em;	
+}
+
+h2 {
+	font-size: 1.1em;	
+}
+
+h3 {
+	font-size: 1.0em;	
+}
+
+ul {
+	list-style: none;
+	}
+	
 /* header */
 
-div#header-container {
+div#header {
   background-color: #910201;
   color: #FFF;
+  height: 55px;
   padding: 0 5px;
 }
 
 
+#helper-nav p {
+ margin: 0;	
+}
+
+
 /* main nav */
+ul#main-nav {
+	list-style: none;	
+	margin: 0;
+}
+ul#main-nav li {
+	display: inline;	
+	margin-right: 3px;
+}
 ul#main-nav li a, #login a {
     color: #FFF;
     font-weight: bold;
+    text-decoration: none;
 }
 
 ul#main-nav li a:hover {
-	color: 	#A10302;
+  background-color: #FFF;
+  color: #A10302;
 }
 
 ul#main-nav li.current {
@@ -37,6 +72,48 @@ ul#main-nav li.current a {
 	 background-color: #256188;
 }
 
+#intro {
+	border-bottom: 1px solid #DDDDDD;	
+}
+
+#intro ul {
+	list-style: none;	
+	padding: 0px;
+}
+
+#intro ul li {
+    background: url("/Content/Images/select.gif") no-repeat scroll right center transparent;
+    border-top: 1px solid #DDDDDD;
+    margin: 0;
+    padding: 0.3em 1.6em 0.2em 0.6em;	
+}
+
+#intro ul li h3, #intro ul li p {
+	margin: 3px 0px;
+	}
+	
+#channels, #stream, .main{
+	border-bottom: 1px solid #DDDDDD;
+}
+
+/* footer */
+
+ul#footernav li {
+	display: inline;	
+}
+
+/* stream */
+
+#stream, .tour {
+	padding:  0.4em;	
+}
+
+/* profile */
+
+
+/* channels */
+
+
 /* contacts */
 
 div#contacts ul.float li.follower {
@@ -50,6 +127,7 @@ div#followers ul.float li.contact {
 }
 
 /* groups */
+
 div#group-intro {
     background: #f0f0f0;
     padding: 5px 15px 1px 15px;
@@ -62,4 +140,20 @@ div#group-intro {
 
 div#group-intro p.centered {
     text-align: left;
+}
+
+/* post form */
+
+#form-message {
+	background-color: #256188;
+	color: #FFF;
+}
+
+#form-message  img {
+	float: left;	
+	padding: 18px 10px 5px 5px;
+}
+
+#message-container {
+	margin: 0px;	
 }
