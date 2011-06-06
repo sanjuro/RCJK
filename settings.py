@@ -130,19 +130,19 @@ TEST_RUNNER = 'common.test.runner.run_tests'
 MANAGE_PY = os.path.exists('manage.py')
 
 # This is the name of the site that will be used whenever it refers to itself
-SITE_NAME = 'Rapid Comments'
+SITE_NAME = 'Rapid-Comments'
 SUPPORT_CHANNEL = 'support'
 
 # This is the colloquial name for an entry, mostly used for branding purposes
 POST_NAME = 'Post'
 
 # This is the name of the root user of the site
-ROOT_NICK = 'headhancho@rapidcomment.appspot.com'
+ROOT_NICK = 'root@example.com'
 
 
 # This is the domain where this is installed on App Engine. It will be
 # necessary to know this if you plan on enabling SSL for login and join.
-GAE_DOMAIN = 'example.appspot.com'
+GAE_DOMAIN = 'rapidcomment.appspot.com'
 
 # Enabling this means we expect to be spending most of our time on a 
 # Hosted domain
@@ -151,7 +151,7 @@ HOSTED_DOMAIN_ENABLED = True
 # This is the domain you intend to serve your site from, when using hosted
 # domains. If SSL is enabled for login and join those requests will still 
 # go to the GAE_DOMAIN above.
-HOSTED_DOMAIN = 'rapidcomment.appspot.com'
+HOSTED_DOMAIN = 'example.com'
 
 # App Engine requires you to serve with a subdomain
 DEFAULT_HOSTED_SUBDOMAIN = 'www'

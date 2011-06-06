@@ -22,35 +22,13 @@
             {% endblock %}
           </p>
         </div>
-      {% else %}
-		 <div id="helper-nav">
-          <p id="login">
-            {% block login %}
-              {% if request.user %}
-                Signed in as {% actor_link request.user request %} | 
-                <a href="{{request.user.url}}/settings">Settings</a> | 
-                <a href="/logout">Sign Out</a>
-              {% else %}
-                Already a member? 
-                {% if SUBDOMAINS_ENABLED %}
-                  <a href="/login?redirect_to=http://{{request.META.HTTP_HOST}}{{request.META.PATH_INFO}}">Sign In</a>
-                {% else %}
-                  <a href="/login?redirect_to={{request.META.PATH_INFO}}">Sign In</a>
-                {% endif %}
-              {% endif %}
-            {% endblock %}
-          </p>
-        </div>
-      {% endif %}
       {% endif %}
 
-	  {% if not request.mobile %}
-	      {% block logo %}
-	      <a href="/" id="logo">
-	        <img src="/themes/{{DEFAULT_THEME|urlencode}}/logo.png" height="73" width="89" alt="{{SITE_NAME}}" />
-	      </a>
-	      {% endblock %}
-      {% endif %}
+      {% block logo %}
+      <a href="/" id="logo">
+        <img src="/themes/{{DEFAULT_THEME|urlencode}}/logo.png" height="73" width="89" alt="{{SITE_NAME}}" />
+      </a>
+      {% endblock %}
       
       {% if not request.mobile %}
         {% block mainnav %}

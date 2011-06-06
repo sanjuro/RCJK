@@ -93,7 +93,7 @@ def front_front(request):
   root = api.ROOT
 
   area = 'frontpage'
-  
+
   t = loader.get_template('front/templates/front.html')
   c = RequestContext(request, locals())
 

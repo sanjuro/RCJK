@@ -15,7 +15,6 @@
 from django.conf import settings
 from django.conf.urls.defaults import *
 
-
 from common import patterns as common_patterns
 
 urlpatterns = patterns('',
@@ -151,7 +150,6 @@ urlpatterns += patterns('blob.views',
 urlpatterns += patterns('install.views',
     ('install', 'install_rootuser'),
 )
-
 
 handler404 = 'common.views.common_404'
 handler500 = 'common.views.common_500'
