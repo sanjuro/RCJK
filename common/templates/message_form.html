@@ -15,7 +15,6 @@
     </p>
     
     <p id="icons">
-        <label for="icon" id="icon-label">Icon</label>
         <select name="icon" id="icon">
           <option value="">Select icon</option>
           {% for key, icon in selectable_icons.items %}
@@ -23,9 +22,7 @@
           {% endfor %}
         </select>
         <a href="#" id="add-icons">+ Add Icon</a>
-    </p>
-    
-	<p class="buttons">
+
       <input type="hidden" id="location" name="location" value="{{ request.user.extra.location }}"/>
       <input type="submit" value="Post" />
       <input type="hidden" name="nick" value="{{request.user.nick}}" />

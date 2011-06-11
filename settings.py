@@ -137,7 +137,7 @@ SUPPORT_CHANNEL = 'support'
 POST_NAME = 'Post'
 
 # This is the name of the root user of the site
-ROOT_NICK = 'root@example.com'
+ROOT_NICK = 'headhancho@rapidcomment.appspot.com'
 
 
 # This is the domain where this is installed on App Engine. It will be

@@ -15,17 +15,6 @@
 {% block content %}
 {% include 'common/templates/message_form.html' %}
 
-{% if not request.mobile %}
-  <ul id="sub-nav">
-    <li class="first current">
-      <a href="{{view.url}}/overview">Overview</a>
-    </li>
-    <li>
-      <a href="{{view.url}}">Your {{POST_NAME}}s</a>
-    </li>
-  </ul>
-{% endif %}
-
 <div id='stream'>
   <h2>Hi {{view.display_nick}}! Here's the latest from your contacts</h2>
   {% if HIDE_COMMENTS_ENABLED %}
